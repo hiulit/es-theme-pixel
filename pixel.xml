@@ -199,8 +199,8 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_lbl_playcount">
 			<color>ffffff</color>
 			<pos>1 1</pos>
-			<!--- This will enable Player Count under the screenshot --->
-			<!---<pos>0.686 0.573</pos>--->
+			<!-- This will enable Player Count under the screenshot -->
+			<!--<pos>0.686 0.573</pos>-->
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
@@ -210,8 +210,8 @@ license:		creative commons CC-BY-NC-SA
 		<text name="md_playcount">
 			<color>ffffff</color>
 			<pos>1 1</pos>
-			<!--- This will enable Player Count under the screenshot.--->
-			<!---<pos>0.830 0.567</pos>--->
+			<!-- This will enable Player Count under the screenshot.-->
+			<!--<pos>0.830 0.567</pos>-->
 			<fontSize>0.03</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
