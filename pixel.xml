@@ -125,11 +125,6 @@ license:		creative commons CC-BY-NC-SA
             <size>1 1</size>
             <path>./art/border.png</path>
         </image>
-        <image name="md_image">
-            <pos>0.766 0.322</pos>
-            <maxSize>0.366 0.480</maxSize>
-            <origin>0.5 0.5</origin>
-        </image>
         <textlist name="gamelist">
             <pos>0.034 0.258</pos>
             <size>0.483 0.63</size>
@@ -185,6 +180,13 @@ license:		creative commons CC-BY-NC-SA
             <fontPath>./art/font.ttf</fontPath>
             <fontSize>0.03</fontSize>
         </text>
+    </view>
+    <view name="detailed">
+        <image name="md_image">
+            <pos>0.766 0.322</pos>
+            <maxSize>0.366 0.480</maxSize>
+            <origin>0.5 0.5</origin>
+        </image>
     </view>
     <view name="video">
         <video name="md_video">
