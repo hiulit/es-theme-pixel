@@ -7,4 +7,4 @@ Do not modify this theme or use graphics in other projects.
 
 This is a fork from https://github.com/ehettervik/es-theme-pixel.
 
-All the credit goes to [@ehettervik](https://github.com/ehettervik)
+All the credit goes to [@ehettervik](https://github.com/ehettervik).
