@@ -44,7 +44,7 @@
             <path>./console.png</path>
         </image>
         <text name="System_Desc" extra="true">
-            <text>All of your games in the same place.</text>
+            <text>All your games in the same place.</text>
         </text>
     </view>
 </theme>
